@@ -121,7 +121,7 @@ const About = () => {
             </a>
 
             <a
-              href="/AIZAH_RESUME.pdf"
+              href="/AIZAH_RESUME%20.pdf"
               download
               className="flex items-center gap-2 bg-white/5 border border-white/10 text-white px-7 py-3.5 rounded-xl font-bold text-xs uppercase tracking-widest transition-all hover:bg-white/10 active:scale-95"
             >
