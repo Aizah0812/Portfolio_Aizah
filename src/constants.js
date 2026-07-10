@@ -33,7 +33,7 @@ import QuizLogo from './assets/work_logo/Quiz.png';
 import FaceLogo from './assets/work_logo/Face.png';
 import VolumeLogo from './assets/work_logo/Hand.png';
 import NariSurakshaLogo from './assets/work_logo/NariSuraksha.png';
-import LibraryLogo from './assets/work_logo/Library.png';   
+import LibraryLogo from './assets/work_logo/library.png';   
 
 /**
  * SKILLS DATA 
